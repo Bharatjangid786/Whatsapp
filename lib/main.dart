@@ -30,7 +30,7 @@ class WhatsAppHomePage extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: const Color(0xFF1F2C34),
           title: const Text(
-            'WhatsApp',
+            'WhatsApp Clone',
             style: TextStyle(color: Colors.white),
           ),
           actions: <Widget>[
